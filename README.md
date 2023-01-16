@@ -33,8 +33,8 @@ As time goes on, **there are platforms that are decreasing in popularity**. If t
 - Increase engagement to retain end users, for example, active in the video game community.
 - Raise the awareness to give critic scores from the game that their purchase and offer program/promo to encourage end use give critic scores as much as they can.
 #### Long-Term Recommendations
-- Business Transformation: With the current business model, we will shift from physical video games to digital and offer a product key platform. Establish an exclusive agreement with a console manufacturer who has an embedded app store to offer license/product keys to end-users.
-- Business Diversification: With backward integration, we as distributors will transform the business into a game publisher and marketplace of PC gaming (all-in-one platform). Adopting the business model of STEAM.
+- **Business Transformation**: With the current business model, we will shift from physical video games to digital and offer a product key platform. Establish an exclusive agreement with a console manufacturer who has an embedded app store to offer license/product keys to end-users.
+- **Business Diversification**: With backward integration, we as distributors will transform the business into a game publisher and marketplace of PC gaming (all-in-one platform). Adopting the business model of STEAM.
 
 ## Appendix
 - [The Pitching Deck](https://drive.google.com/file/d/1a54pLhyJpttME5eewduFIbOK2FmiV4va/view)
